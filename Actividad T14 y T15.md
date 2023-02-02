@@ -10,4 +10,14 @@ Doxygen es una herramienta de generación de documentación para software escrit
 Doxygen extrae la información de los comentarios en el código fuente y genera una documentación en línea que incluye descripciones de clases, métodos, funciones y variables. 
 Doxygen es una herramienta muy útil para los desarrolladores, ya que permite documentar el código de manera rápida y eficiente, lo que facilita la colaboración y el mantenimiento del software.
 
-# Explicación de como crear 3 commits en Github 
+# Explicación de como crear un repositorio público Github 
+
+-Inicie sesión en su cuenta de GitHub.
+-Haga clic en el ícono "+" en la esquina superior derecha de la página y seleccione "Nuevo repositorio".
+-Proporcione un nombre para su repositorio y una descripción opcional.
+-Elija "Repositorio público" como la opción de privacidad.
+-Seleccione "Inicializar este repositorio con un README".
+-Haga clic en el botón "Crear repositorio".
+-Una vez creado, puede agregar archivos y realizar commits a su repositorio público de GitHub.
+
+## Nota: Para hacer un commit en un repositorio de GitHub, debe agregar archivos a su repositorio local y luego enviarlos a su repositorio en línea con un mensaje de "commit".
