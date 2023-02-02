@@ -12,12 +12,12 @@ Doxygen es una herramienta muy útil para los desarrolladores, ya que permite do
 
 # Explicación de como crear un repositorio público Github 
 
--Inicie sesión en su cuenta de GitHub.
--Haga clic en el ícono "+" en la esquina superior derecha de la página y seleccione "Nuevo repositorio".
--Proporcione un nombre para su repositorio y una descripción opcional.
--Elija "Repositorio público" como la opción de privacidad.
--Seleccione "Inicializar este repositorio con un README".
--Haga clic en el botón "Crear repositorio".
--Una vez creado, puede agregar archivos y realizar commits a su repositorio público de GitHub.
+1. Inicie sesión en su cuenta de GitHub.
+2. Haga clic en el ícono "+" en la esquina superior derecha de la página y seleccione "Nuevo repositorio".
+3. Proporcione un nombre para su repositorio y una descripción opcional.
+4. Elija "Repositorio público" como la opción de privacidad.
+5. Seleccione "Inicializar este repositorio con un README".
+6. Haga clic en el botón "Crear repositorio".
+7. Una vez creado, puede agregar archivos y realizar commits a su repositorio público de GitHub.
 
 ## Nota: Para hacer un commit en un repositorio de GitHub, debe agregar archivos a su repositorio local y luego enviarlos a su repositorio en línea con un mensaje de "commit".
